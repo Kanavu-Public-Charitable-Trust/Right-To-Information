@@ -14,8 +14,8 @@
 - [India Post]()
   - Mettupalaym Head Post Office
 - [Reserve Bank of India (RBI)](https://kanavu-public-charitable-trust.github.io/Right-To-Information/RBI)
-  - RBI Main
-  - SPMCIL
-  - CNP
+  - [RBI Main](https://kanavu-public-charitable-trust.github.io/Right-To-Information/RBI/main)
+  - [SPMCIL](https://kanavu-public-charitable-trust.github.io/Right-To-Information/RBI/SPMCIL)
+  - [CNP](https://kanavu-public-charitable-trust.github.io/Right-To-Information/RBI/CNP)
 - [Ministry of Women & Child Development]()
 - [Ministry of Environment, Forest and Climate Change]()
